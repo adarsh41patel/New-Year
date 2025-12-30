@@ -29,6 +29,16 @@ export const photoScreenHeading = "Some moments from this year";
 // Example: { "/images/1.webp" }, Match the format and add more as needed
 export const photos = [
   "/images/1.png",
+  "/images/2.png",
+  "/images/3.png",
+  "/images/4.png",
+  "/images/5.png",
+  "/images/6.png",
+  "/images/7.png",
+  "/images/8.png",
+  "/images/9.png",
+  "/images/10.png",
+  "/images/11.png",
 ];
 
 // ==========================
@@ -78,7 +88,7 @@ and gentle happiness.
 May this year be kind to you
 and give you everything your heart has been hoping for ✨
 
-🌟 Wishing you a beautiful New Year🌟`;
+🌟 Wishing you a beautiful New Year Rajvi🌟`;
 // Your message (you can edit freely)
 
 // ==========================
